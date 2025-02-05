@@ -14,6 +14,14 @@ Hologenomic data generation and analysis in wild vertebrates
 
 :book: https://www.earthhologenome.org/EHI_technical_considerations/
 
+## 2024
+
+### Bideguren et al. 2024
+
+Quantitative synthesis of microbe-driven acclimation and adaptation in wild vertebrates
+
+:octocat: https://github.com/alberdilab/microbiota_adaptation_review
+
 ## 2022
 
 ### Brealey et al. 2022
