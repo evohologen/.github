@@ -10,15 +10,19 @@ In this organisational repository you will find the links and references to the 
 
 Hologenomic data generation and analysis in wild vertebrates
 
+**Methods in Ecology and Evolution 16: 97-107**
+
 :octocat: https://github.com/earthhologenome/EHI_technical_considerations
 
 :book: https://www.earthhologenome.org/EHI_technical_considerations/
 
 ## 2024
 
-### Bideguren et al. 2024
+### Martin-Bideguren et al. 2024
 
 Quantitative synthesis of microbe-driven acclimation and adaptation in wild vertebrates
+
+**Evolutionary Applications 17(10): e70025**
 
 :octocat: https://github.com/alberdilab/microbiota_adaptation_review
 
@@ -26,7 +30,7 @@ Quantitative synthesis of microbe-driven acclimation and adaptation in wild vert
 
 ### Brealey et al. 2022
 
-Microbiome “Inception”: an Intestinal Cestode Shapes a Hierarchy of Microbial Communities Nested within the Host. 
+Microbiome “Inception”: an Intestinal Cestode Shapes a Hierarchy of Microbial Communities Nested within the Host
 
 **mBio e00679-22**
 
