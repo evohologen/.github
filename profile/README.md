@@ -6,6 +6,16 @@ In this organisational repository you will find the links and references to the 
 
 ## 2025
 
+### Aizpurua et al. 2025
+
+Functional insights into the effect of feralisation on the gut microbiota of cats worldwide
+
+**Molecular Ecology: accepted**
+
+:octocat: https://github.com/alberdilab/domestic_feral_cat_metagenomics
+
+:book: https://alberdilab.github.io/domestic_feral_cat_metagenomics
+
 ### Pietroni et al. 2025
 
 Hologenomic data generation and analysis in wild vertebrates
