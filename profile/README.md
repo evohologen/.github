@@ -4,6 +4,15 @@
 
 In this organisational repository you will find the links and references to the projects and studies conducted by CEH researchers.
 
+## 2025
+
+### Pietroni et al. 2025
+
+Hologenomic data generation and analysis in wild vertebrates
+
+:octocat: https://github.com/earthhologenome/EHI_technical_considerations
+
+:book: https://www.earthhologenome.org/EHI_technical_considerations/
 
 ## 2022
 
