@@ -66,6 +66,16 @@ Quantitative synthesis of microbe-driven acclimation and adaptation in wild vert
 
 :octocat: https://github.com/alberdilab/microbiota_adaptation_review
 
+### Brealey et al. 2024
+
+Host–gut microbiota interactions shape parasite infections in farmed Atlantic salmon
+
+**mSystems 9(2): e01043-23**
+
+:octocat: https://github.com/jcbrealey/Brealey_etal_salmon_multiomics
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB64334
+
 ### Eisenhofer et al. 2024a
 
 Quantifying microbial DNA in metagenomes improves microbial trait estimation
