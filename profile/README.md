@@ -165,3 +165,25 @@ A multi-omics approach unravels metagenomic and metabolic alterations of a probi
 :octocat: https://github.com/JacobAgerbo/Multi_Omic_Rainbow_Trout
 
 :file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB48695
+
+## 2021
+
+### Rasmussen et al. 2021
+
+Genome-resolved metagenomics suggests a mutualistic relationship between Mycoplasma and salmonid hosts
+
+**Communications Biology 4: 579**
+
+:octocat: https://github.com/JacobAgerbo/Comparative_Mycoplasma
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB40990
+
+### Bozzi et al. 2021
+
+Salmon gut microbiota correlates with disease infection status: potential for monitoring health in farmed animals
+
+**Animal Microbiome 3: 30**
+
+:octocat: https://github.com/DavideBozzi/Bozzi_et_al_2020_analysis
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJNA665207
