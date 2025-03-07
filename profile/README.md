@@ -48,6 +48,16 @@ Sampling fish gut microbiota - A genome-resolved metagenomic approach
 
 :file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB71469
 
+### Katirtzoglou et al. 2024
+
+Intestinal microbial profiles of wild Alaskan rainbow trout (Oncorhynchus mykiss) characterized by 16S rRNA amplicon data
+
+**Data in Brief 57: 110902**
+
+:octocat: https://github.com/alberdilab/microbiota_adaptation_review
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB71469
+
 ### Martin-Bideguren et al. 2024
 
 Quantitative synthesis of microbe-driven acclimation and adaptation in wild vertebrates
