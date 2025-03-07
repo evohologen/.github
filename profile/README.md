@@ -6,16 +6,6 @@ In this organisational repository you will find the links and references to the 
 
 ## 2025
 
-### Aizpurua et al. 2025
-
-Functional insights into the effect of feralisation on the gut microbiota of cats worldwide
-
-**Molecular Ecology: accepted**
-
-:octocat: https://github.com/alberdilab/domestic_feral_cat_metagenomics
-
-:book: https://alberdilab.github.io/domestic_feral_cat_metagenomics
-
 ### Pietroni et al. 2025
 
 Hologenomic data generation and analysis in wild vertebrates
@@ -26,6 +16,26 @@ Hologenomic data generation and analysis in wild vertebrates
 
 :book: https://www.earthhologenome.org/EHI_technical_considerations/
 
+### Aizpurua et al. 2025
+
+Functional insights into the effect of feralisation on the gut microbiota of cats worldwide
+
+**Molecular Ecology 34: e17695**
+
+:octocat: https://github.com/alberdilab/domestic_feral_cat_metagenomics
+
+:book: https://alberdilab.github.io/domestic_feral_cat_metagenomics
+
+### Hernández et al. 2025
+
+Contrasting recovery of metagenome‑assembled genomes and derived bacterial communities and functional profiles from lizard fecal and cloacal samples
+
+**Animal Microbiome 7: 15**
+
+:octocat: https://github.com/alberdilab/domestic_feral_cat_metagenomics
+
+:book: https://alberdilab.github.io/domestic_feral_cat_metagenomics
+
 ## 2024
 
 ### Martin-Bideguren et al. 2024
@@ -35,6 +45,23 @@ Quantitative synthesis of microbe-driven acclimation and adaptation in wild vert
 **Evolutionary Applications 17(10): e70025**
 
 :octocat: https://github.com/alberdilab/microbiota_adaptation_review
+
+### Eisenhofer et al. 2024a
+
+Quantifying microbial DNA in metagenomes improves microbial trait estimation
+
+**ISME Communications 4(1): ycae111**
+
+:octocat: https://github.com/alberdilab/domestic_feral_cat_metagenomics
+
+### Eisenhofer et al. 2024b
+
+A comparison of short-read, HiFi long-read, and hybrid strategies for genome-resolved metagenomics
+
+**Microbiology spectrum 12(4): e03590**
+
+:octocat: https://github.com/alberdilab/domestic_feral_cat_metagenomics
+
 
 ## 2022
 
