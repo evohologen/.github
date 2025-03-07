@@ -146,6 +146,16 @@ Integrative analyses of probiotics, pathogenic infections and host immune respon
 
 :file_folder:	https://www.ebi.ac.uk/ena/browser/view/PRJEB48694
 
+### Nyholm et al. 2022
+
+Gut microbiota differences between paired intestinal wall and digesta samples in three small species of fish
+
+**PeerJ 10: e12992**
+
+:octocat: https://github.com/LasseNyholm/Gut-microbiota-differences-between-paired-mucus-and-digesta-samples-in-three-small-species-of-fish
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB48573
+
 ### Brealey et al. 2022
 
 Microbiome “Inception”: an Intestinal Cestode Shapes a Hierarchy of Microbial Communities Nested within the Host
