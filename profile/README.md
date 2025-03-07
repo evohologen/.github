@@ -38,6 +38,16 @@ Contrasting recovery of metagenome‑assembled genomes and derived bacterial com
 
 ## 2024
 
+### Thormar et al. 2024
+
+Sampling fish gut microbiota - A genome-resolved metagenomic approach
+
+**Ecology and Evolution 14(9): e70302**
+
+:octocat: https://github.com/alberdilab/microbiota_adaptation_review
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB71469
+
 ### Martin-Bideguren et al. 2024
 
 Quantitative synthesis of microbe-driven acclimation and adaptation in wild vertebrates
