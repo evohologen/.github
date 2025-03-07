@@ -114,6 +114,14 @@ A comparison of short-read, HiFi long-read, and hybrid strategies for genome-res
 
 ## 2023
 
+### Koziol et al. 2023
+
+Mammals show distinct functional gut microbiome dynamics to identical series of environmental stressors
+
+**mBio 14: e01606**
+
+:octocat: https://github.com/AdamKoziol1992/Metgen_plasticityanalysis
+
 ### Hansen et al. 2023
 
 Intestinal epigenotype of Atlantic salmon (Salmo salar) associates with tenacibaculosis and gut microbiota composition
