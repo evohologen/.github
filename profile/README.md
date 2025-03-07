@@ -124,6 +124,14 @@ Intestinal epigenotype of Atlantic salmon (Salmo salar) associates with tenaciba
 
 :file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB59345
 
+### Eisenhofer et al. 2023
+
+Impact of microbial genome completeness on metagenomic functional inference
+
+**ISME Communications 3: 12**
+
+:octocat: https://zenodo.org/records/7584430
+
 ### Rasmussen et al. 2023
 
 Co-diversification of an intestinal Mycoplasma and its salmonid host
