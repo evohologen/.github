@@ -136,6 +136,16 @@ Co-diversification of an intestinal Mycoplasma and its salmonid host
 
 ## 2022
 
+### Rasmussen et al. 2022a
+
+Integrative analyses of probiotics, pathogenic infections and host immune response highlight the importance of gut microbiota in understanding disease recovery in rainbow trout (Oncorhynchus mykiss)
+
+**Journal of Applied Microbiology 132(4):3201-3216**
+
+:octocat: https://github.com/JacobAgerbo/Disease_Challenge_Rainbow_Trout
+
+:file_folder:	https://www.ebi.ac.uk/ena/browser/view/PRJEB48694
+
 ### Brealey et al. 2022
 
 Microbiome “Inception”: an Intestinal Cestode Shapes a Hierarchy of Microbial Communities Nested within the Host
@@ -144,4 +154,14 @@ Microbiome “Inception”: an Intestinal Cestode Shapes a Hierarchy of Microbia
 
 :octocat: https://github.com/jcbrealey/cestode_microbiome
 
-:mag:	https://www.ebi.ac.uk/ena/browser/view/PRJEB51496
+:file_folder:	https://www.ebi.ac.uk/ena/browser/view/PRJEB51496
+
+### Rasmussen et al. 2022b
+
+A multi-omics approach unravels metagenomic and metabolic alterations of a probiotic and synbiotic additive in rainbow trout (Oncorhynchus mykiss)
+
+**Microbiome 10: 21**
+
+:octocat: https://github.com/JacobAgerbo/Multi_Omic_Rainbow_Trout
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB48695
