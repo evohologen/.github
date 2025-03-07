@@ -38,7 +38,7 @@ Contrasting recovery of metagenome‑assembled genomes and derived bacterial com
 
 ## 2024
 
-### Thormar et al. 2024
+### Thormar et al. 2024a
 
 Sampling fish gut microbiota - A genome-resolved metagenomic approach
 
@@ -48,7 +48,7 @@ Sampling fish gut microbiota - A genome-resolved metagenomic approach
 
 :file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB71469
 
-### Katirtzoglou et al. 2024
+### Katirtzoglou et al. 2024a
 
 Intestinal microbial profiles of wild Alaskan rainbow trout (Oncorhynchus mykiss) characterized by 16S rRNA amplicon data
 
@@ -73,6 +73,26 @@ Quantifying microbial DNA in metagenomes improves microbial trait estimation
 **ISME Communications 4(1): ycae111**
 
 :octocat: https://github.com/alberdilab/domestic_feral_cat_metagenomics
+
+### Thormar et al. 2024b
+
+A zebrafish model to elucidate the impact of host genes on the microbiota
+
+**Environmental DNA 6(1): e513**
+
+:octocat: https://github.com/eirikurandri/ZEBRAFISH-AND-CRISPR-CAS-A-MODEL-TO-ELUCIDATE-HOST-GENETIC-EFFECTS-ON-THE-MICROBIOTA
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB51322
+
+### Katirtzoglou et al. 2024b
+
+Genomic context determines the effect of DNA methylation on gene expression in the gut epithelium of Atlantic salmon (Salmo salar)
+
+**Epigenetics 19: 2392049**
+
+:octocat: https://github.com/katkat-ri/EpiG-salmon-2024
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB64334
 
 ### Eisenhofer et al. 2024b
 
