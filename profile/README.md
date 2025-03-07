@@ -112,6 +112,27 @@ A comparison of short-read, HiFi long-read, and hybrid strategies for genome-res
 
 :octocat: https://github.com/alberdilab/domestic_feral_cat_metagenomics
 
+## 2023
+
+### Hansen et al. 2023
+
+Intestinal epigenotype of Atlantic salmon (Salmo salar) associates with tenacibaculosis and gut microbiota composition
+
+**Genomics 115(3): 110629**
+
+:octocat: https://github.com/SrenBlikdal/Tenacibaculosis
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB59345
+
+### Rasmussen et al. 2023
+
+Co-diversification of an intestinal Mycoplasma and its salmonid host
+
+**ISME 17: 682–692**
+
+:octocat: https://github.com/JacobAgerbo/Norwegian_wild_Salmon_2022
+
+:file_folder: https://www.ebi.ac.uk/ena/browser/view/PRJEB59886
 
 ## 2022
 
